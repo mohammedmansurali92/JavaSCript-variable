@@ -1,0 +1,2 @@
+# JavaSCript-variable
+JavaScript variable
